@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chatting</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="login">login</string>
+    <string name="log_in">Log In</string>
+    <string name="name">name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="shreya">shreya</string>
+    <string name="type_a_message">Type a Message</string>
+    <string name="this_is_the_received_message">This is the received message</string>
+    <string name="this_is_the_sent_message">This is the sent message</string>
+</resources>
